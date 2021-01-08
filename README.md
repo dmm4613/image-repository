@@ -2,5 +2,4 @@
 a python based image search application
 
 ## dependencies/libraries
-pip install opencv-contrib-python
-pip install imutils
+pip install opencv-contrib-python imutils
